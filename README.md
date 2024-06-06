@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Java + DSA**
 
-- 📫 How to reach me **sgaikwad2963@gmail.com**
+- 📫 How to reach me **shubhamgaikwad2k4@gmail.com**
 
 - ⚡ Fun fact **"I've coded in more programming languages than I can count, but I still have a soft spot for my first love: BASIC."**
 
